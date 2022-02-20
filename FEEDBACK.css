@@ -1,0 +1,47 @@
+body{
+    background-image: url("Images/BACKGROUNG7.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 1%;
+    text-decoration: underline;
+    text-shadow: 2px 2px blue;
+    font-size: 40px;
+}
+p{
+    margin-left: 0px;
+    color: beige;
+    font-size: 29px;
+    margin-top: 2%;
+
+}
+h3{
+    font-size: 35px;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 2px blueviolet;
+    text-decoration: underline;
+    margin-top: 3%;
+}
+legend{
+    color: rgb(144, 30, 219);
+    font-size: 32px;
+    text-decoration: underline;
+    
+}
+label{
+    color: white;
+    margin-left: 50px;
+    font-size: 30px;
+}
+textarea{
+    opacity: 0.6;
+    color: rgb(209, 34, 93);
+}
+input{
+    opacity: 0.6;
+}
+

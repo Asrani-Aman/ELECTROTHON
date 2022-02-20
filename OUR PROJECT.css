@@ -1,0 +1,29 @@
+body{
+    background-image: url("Images/BACKGROUND3.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 5%;
+    font-weight: 800;
+    text-shadow: 2px 2px white;
+}
+h2{
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 32px;
+    margin-top: 2%;
+}
+p.paragraph{
+    font-size: 24px;
+}
+h5{
+    font-size: 32px;
+    text-decoration: underline;
+    text: shadow 2px 2px white;
+}
+ol{
+    font-size: 25px;
+}

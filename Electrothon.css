@@ -1,0 +1,52 @@
+body{
+    background-image: url("Images/Home\ page\ background.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li.navbar-item{
+    font-size: 32px;
+    font-weight: bold;    
+}
+.navbar-link{
+    color: white;
+    transition: 0.2s;
+    text-shadow: 2px 2px blue;
+}
+div.water{
+    font-size: 27px;
+    color: aqua;
+    float: left;
+}
+img.water{
+    height: 300px;
+    margin-top: 10%;
+    margin-left: 0px;
+}
+div.water{
+    margin-top: 4%;
+    font-weight: 500;
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-weight: 900;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 2px 2px blue;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-decoration: underline;
+}
+ul.list{
+    font-size: 27px;
+    color: aqua;
+    float: left;
+}
+p.reasons{
+    font-size: 30px;
+    color: rgb(163, 255, 255);
+    text-shadow: 2px 2px 2px blueviolet;
+    text-decoration: underline;
+}
